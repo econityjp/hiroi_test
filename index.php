@@ -38,4 +38,5 @@ if (!defined('CAKE_CORE_INCLUDE_PATH')) {
 	define('CAKE_CORE_INCLUDE_PATH', ROOT . DS . 'lib');
 }
 
+//test comment
 require APP_DIR . DS . WEBROOT_DIR . DS . 'index.php';
