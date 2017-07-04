@@ -40,3 +40,5 @@ if (!defined('CAKE_CORE_INCLUDE_PATH')) {
 
 //test comment
 require APP_DIR . DS . WEBROOT_DIR . DS . 'index.php';
+//test_ishiga 2
+
